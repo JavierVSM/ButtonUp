@@ -1,0 +1,36 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Button1 {
+    padding: 3px 30px 3px 30px;
+    margin: 10px;
+    color: rgb(73, 158, 161);
+    background-color: white;
+    border: 2px solid rgb(73, 158, 161);
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+.Button2 {
+    text-align:center;
+    margin: 10px;
+    color: white;
+    background-color: rgb(73, 158, 161);
+    border: 2px solid rgb(73, 158, 161);
+    font-weight: 900;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 16px
+}
+
+.Button3 {
+    padding: 5px 30px 5px 30px;
+    text-align:center;
+    margin: 10px;
+    color: white;
+    background-color: rgb(32, 143, 235);
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+}
